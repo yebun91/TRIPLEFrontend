@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TRIPLEFrontend/static/css/main.7ada694b.css",
+    "main.js": "/TRIPLEFrontend/static/js/main.d2d7577b.js",
+    "static/media/NotoSansKR-Black.otf": "/TRIPLEFrontend/static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
+    "static/media/NotoSansKR-Bold.otf": "/TRIPLEFrontend/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
+    "static/media/NotoSansKR-Medium.otf": "/TRIPLEFrontend/static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
+    "static/media/NotoSansKR-Regular.otf": "/TRIPLEFrontend/static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
+    "static/media/NotoSansKR-Light.otf": "/TRIPLEFrontend/static/media/NotoSansKR-Light.636ff9b51e826a733c3d.otf",
+    "static/media/NotoSansKR-Thin.otf": "/TRIPLEFrontend/static/media/NotoSansKR-Thin.a3e74b5ef0ed5ab193f5.otf",
+    "static/media/triple2x.png": "/TRIPLEFrontend/static/media/triple2x.4424a6c6aa6d510c2435.png",
+    "static/media/play-store2x.png": "/TRIPLEFrontend/static/media/play-store2x.70f694a27592524eb43a.png",
+    "static/media/badge-apple4x.png": "/TRIPLEFrontend/static/media/badge-apple4x.5012cb26890fe79618eb.png",
+    "index.html": "/TRIPLEFrontend/index.html",
+    "main.7ada694b.css.map": "/TRIPLEFrontend/static/css/main.7ada694b.css.map",
+    "main.d2d7577b.js.map": "/TRIPLEFrontend/static/js/main.d2d7577b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ada694b.css",
+    "static/js/main.d2d7577b.js"
+  ]
+}
