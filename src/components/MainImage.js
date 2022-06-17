@@ -16,8 +16,6 @@ const Images = styled.div`
 		color: var(--gray-color600);
 		font-weight: 200;
 	}
-	.upAnimation {
-	}
 `;
 
 const MainImage = () => {
